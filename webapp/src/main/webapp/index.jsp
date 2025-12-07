@@ -56,7 +56,7 @@
 </head>
 <body>
   <header>
-    <h1>-- Azure DevOps with Automation --</h1>
+    <h1>Azure DevOps with Automation</h1>
   </header>
 
   <section>
