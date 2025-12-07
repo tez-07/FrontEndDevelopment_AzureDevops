@@ -56,7 +56,6 @@ This project demonstrates a **frontend web application** whose builds and tests 
 ## Screenshots of Azure Devops:
 
 1. **Build Pipeline**
-   <img width="1239" height="1182" alt="image" src="https://github.com/user-attachments/assets/1bdb8d29-10b0-4562-96f9-af3fef8e041b" />
    <img width="1444" height="630" alt="image" src="https://github.com/user-attachments/assets/37f90bbe-ff1b-4f7c-8cd1-3a661a0a857f" />
    <img width="1444" height="630" alt="image" src="https://github.com/user-attachments/assets/d1253a6b-24c3-4151-8319-3a97d9b0850d" />
 
